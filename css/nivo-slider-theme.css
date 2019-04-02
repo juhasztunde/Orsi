@@ -370,9 +370,9 @@ preview-2
 }
 
 .preview-2 .nivo-directionNav a.nivo-nextNav:hover:before, .preview-2 .nivo-directionNav a.nivo-prevNav:hover:before {
-  border-color: #3EC1D5;
+  border-color: #ed5b94;
   color: #fff;
-  background: #3EC1D5;
+  background: #ed5b94;
 }
 
 .preview-2 .nivo-directionNav a.nivo-nextNav::before {
