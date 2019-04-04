@@ -207,7 +207,7 @@ div#preloader {
 }
 
 ::selection {
-  background: #3EC1D5;
+  background: #eb5d94;
   text-shadow: none;
 }
 
@@ -314,7 +314,7 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li a:hover {
-  color: #3EC1D5;
+  color: #eb5d94;
 }
 
 .navbar {
