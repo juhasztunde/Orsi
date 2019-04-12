@@ -1097,8 +1097,8 @@ div#preloader {
 }
 
 .project-menu li a.active, .project-menu li a:hover {
-  border-color: #3EC1D5;
-  background: #3EC1D5;
+  border-color: #eb5d94;
+  background: #eb5d94;
   color: #fff;
   text-decoration: none;
 }
